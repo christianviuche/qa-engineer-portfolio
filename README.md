@@ -19,3 +19,7 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
 3.  **[03-Test-Design-and-Strategy](./03-Test-Design-and-Strategy/)**
     * Test Oracles
     * Test Prioritization
+
+4.  **[04-Project-Management-Tools](./04-Project-Management-Tools/)**
+    * Project Management in QA
+    * Atlassian (Jira), Trello, & YouTrack
