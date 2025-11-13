@@ -14,6 +14,8 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
 
 2.  **[02-Testing-Approaches](./02-Testing-Approaches/)**
     * Overview of Testing Approaches
-    * White Box Testing
-    * Gray Box Testing
-    * Black Box Testing
+    * White Box, Gray Box, & Black Box
+
+3.  **[03-Test-Design-and-Strategy](./03-Test-Design-and-Strategy/)**
+    * Test Oracles
+    * Test Prioritization
