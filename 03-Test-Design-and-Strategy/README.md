@@ -9,7 +9,7 @@ This section covers two critical concepts that elevate simple test execution to 
 
 ## Concept Definitions
 
-### 1. Test Oracle (Oráculo de Prueba)
+### 1. Test Oracle 
 
 A Test Oracle is **not** a person. It is the **mechanism, source of truth, or principle** used to determine whether the outcome of a test is correct.
 
@@ -25,7 +25,7 @@ It is the "answer key" against which you compare the software's behavior. A test
     * **Consistency Oracles:** Comparing the result to a previous version (Regression Testing) or a similar component. (e.g., "It should look the same as it did yesterday.")
     * **Algorithmic Oracles:** Using a separate program or calculation (like a calculator) to determine the correct result.
 
-### 2. Test Prioritization (Priorización de Pruebas)
+### 2. Test Prioritization
 
 Test Prioritization is the strategic process of deciding **which tests to run and in what order**. In the real world, you rarely have time to run *all* tests, so you must run the *most important* ones first.
 
