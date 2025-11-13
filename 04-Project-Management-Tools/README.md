@@ -12,28 +12,28 @@ For a QA Engineer, these tools are our "central hub" for:
 
 ## Key Tools & Platforms
 
-### 1. Atlassian (The Ecosystem)
+### 1. Atlassian (The Ecosystem) <a href="https://cdnlogo.com/logo/atlassian_8473.html"><img src="https://static.cdnlogo.com/logos/a/81/atlassian.svg"></a>
 
 **Atlassian** is the *company* that builds the most dominant tools in the software development world. The two essential tools for any QA are:
 
-* **Jira Software:** This is the industry standard for agile project management and bug tracking. As a QA, you will live in Jira.
+* **Jira Software:** <a href="https://cdnlogo.com/logo/jira_39949.html"><img src="https://static.cdnlogo.com/logos/j/28/jira.svg"></a> This is the industry standard for agile project management and bug tracking. As a QA, you will live in Jira.
     * **Core Use:** Writing bug reports (defects), tracking user stories, managing test cycles (with plugins like Zephyr or Xray), and participating in sprints.
-* **Confluence:** This is the collaboration and documentation (wiki) tool.
+* **Confluence:** <a href="https://cdnlogo.com/logo/confluence_31246.html"><img src="https://static.cdnlogo.com/logos/c/34/confluence.svg"></a> This is the collaboration and documentation (wiki) tool.
     * **Core Use:** Reading the official product requirements (specifications), finding test environment details, and writing test plans or team documentation.
 
-### 2. Trello
+### 2. Trello <a href="https://cdnlogo.com/logo/trello_40018.html"><img src="https://static.cdnlogo.com/logos/t/55/trello.svg"></a>
 
 **Trello** is a simple, visual, Kanban-style project management tool. It's excellent for lightweight project management, personal task organization, or small teams.
 
 * **Core Use:** Visualizing workflow (To Do, In Progress, Done). It's less complex than Jira but great for its simplicity. It is also owned by Atlassian.
 
-### 3. YouTrack
+### 3. YouTrack <img src="https://cdn.simpleicons.org/youtrack" alt="YouTrack logo" width="20" height="20" valign="middle">
 
 **YouTrack** is a powerful project management tool and help-desk software developed by JetBrains. It is a direct competitor to Jira.
 
 * **Core Use:** Known for its intelligent query language, keyboard-centric interface, and built-in time tracking. It's very popular with developer-centric teams.
 
-### 4. Assembla
+### 4. Assembla <img src="https://cdn.simpleicons.org/assembla" alt="Assembla logo" width="20" height="20" valign="middle">
 
 **Assembla** is a cloud-based version control and project management platform.
 
@@ -48,5 +48,5 @@ For a QA Engineer, these tools are our "central hub" for:
 | **Jira (Atlassian)** | 🐞 Bug Tracking & Agile Sprints | Enterprise-level, complex agile projects. (The Standard) |
 | **Confluence (Atlassian)** | 📚 Documentation & Wiki | Storing requirements, test plans, and team knowledge. |
 | **Trello (Atlassian)** |  Kanban Boards (Visual) | Small teams, simple projects, personal organization. |
-| **YouTrack (JetBrains)**| ⌨️ Dev-Centric Bug Tracking | Developer teams who want a fast, query-based tool. |
+| **YouTrack (JetBrains)** | ⌨️ Dev-Centric Bug Tracking | Developer teams who want a fast, query-based tool. |
 | **Assembla** | 💻 Code Repository + PM | Teams who need PM tightly integrated with version control. |
