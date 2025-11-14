@@ -12,7 +12,7 @@ For a QA Engineer, these tools are our "central hub" for:
 
 ## Key Tools & Platforms
 
-### 1. Atlassian (The Ecosystem) 
+### 1. Atlassian
 
 **Atlassian** is the *company* that builds the most dominant tools in the software development world. The two essential tools for any QA are:
 
