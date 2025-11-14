@@ -23,3 +23,7 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
 4.  **[04-Project-Management-Tools](./04-Project-Management-Tools/)**
     * Project Management in QA
     * Atlassian (Jira), Trello, & YouTrack
+
+5.  **[05-Test-Case-Management](./05-Test-Case-Management/)**
+    * What is a TCM Tool?
+    * Zephyr, TestRail, qTest, & TestLink
