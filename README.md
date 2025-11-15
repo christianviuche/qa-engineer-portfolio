@@ -39,3 +39,7 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
 8.  **[08-Testing-Methodologies](./08-Testing-Methodologies/)**
     * TDD, BDD, & ATDD
     * Root Cause Analysis (RCA)
+  
+9.  **[09-Manual-Testing-Fundamentals](./09-Manual-Testing-Fundamentals/)**
+    * Test Planning, Cases, & Scenarios
+    * Verification vs. Validation
