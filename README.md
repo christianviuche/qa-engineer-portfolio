@@ -51,3 +51,7 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
 11. **[11-Frontend-Automation](./11-Frontend-Automation/)**
     * Frontend Concepts & Frameworks
     * Selenium, Cypress, Playwright
+   
+12. **[12-Mobile-Automation](./12-Mobile-Automation/)**
+    * Mobile Testing Concepts
+    * Appium, Espresso, Detox
