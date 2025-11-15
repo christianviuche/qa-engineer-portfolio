@@ -47,3 +47,7 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
 10. **[10-Backend-Automation](./10-Backend-Automation/)**
     * API & Backend Testing
     * REST Assured, Postman, Karate
+      
+11. **[11-Frontend-Automation](./11-Frontend-Automation/)**
+    * Frontend Concepts & Frameworks
+    * Selenium, Cypress, Playwright
