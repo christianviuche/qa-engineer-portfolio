@@ -1,4 +1,4 @@
-# 07: SDLC Delivery Models 
+# 07: SDLC Delivery Models
 
 The **Software Development Life Cycle (SDLC)** is a conceptual framework that defines the complete process for creating, deploying, and maintaining software.
 
@@ -6,11 +6,11 @@ The chosen SDLC model is a project's most critical decision, as it defines how t
 
 ---
 
-## 1. Traditional (Sequential) Models
+## 1. Traditional (Sequential) Models ➡️
 
 These models are linear and rigid. Each phase must be 100% complete before the next one can begin. Change is seen as a problem and is expensive.
 
-### Waterfall
+### Waterfall 🌊
 The project flows in one direction.
 
 #### Waterfall Phases:
@@ -25,7 +25,7 @@ The project flows in one direction.
 * **Pros:** Very structured, documented, and easy to manage *if* requirements are 100% clear and will never change.
 * **Cons:** Extremely rigid. If a design flaw is found in the Testing phase, it is catastrophic and expensive to fix. Bugs are found very late.
 
-### V-Model
+### V-Model ✅
 An evolution of Waterfall that attempts to improve QA's role by linking every development phase to a corresponding testing phase.
 
 #### The "V": Verification (Left) vs. Validation (Right)
@@ -41,7 +41,7 @@ The V-Model shows that testing (Validation) should be planned *at the same time*
 
 ---
 
-## 2. Agile Models (Iterative)
+## 2. Agile Models (Iterative) 🔄
 
 **Agile** is not a "model" like Waterfall; it is a **philosophy** or *mindset* for developing software, based on the values of the [Agile Manifesto](https://agilemanifesto.org/).
 
@@ -60,7 +60,7 @@ This is the most critical change. In Agile:
 
 If Agile is the philosophy, these are the *frameworks* for implementing it.
 
-### Scrum
+### Scrum 🏉
 The most popular Agile framework. Work is divided into fixed-time cycles called **"Sprints"** (usually 2-4 weeks).
 
 * **Key Roles:**
@@ -72,16 +72,18 @@ The most popular Agile framework. Work is divided into fixed-time cycles called 
     * **Daily Scrum:** A 15-min daily meeting (What did I do yesterday? What will I do today? What impediments do I have?).
     * **Sprint Review:** The team *demonstrates* the working software they completed ("Demo").
     * **Sprint Retrospective:** The team reflects on *how* they worked to improve their process.
+* **Analogy:** Like planning a series of short, 2-week *sprints* in a race. The goal is to finish a segment, review, and plan the next one.
 
-### Kanban
+### Kanban 📋
 An Agile framework focused on **visualizing workflow** and continuous flow. It does not use "Sprints."
 
 * **Key Concepts:**
     * **Visualize the Workflow:** Using a **Kanban Board** (like Trello or Jira) with columns (e.g., "To Do," "In Progress," "Ready for QA," "Done").
     * **Limit "Work In Progress" (WIP):** The core of Kanban. A limit is set on how many tasks can be in one column (e.g., "Ready for QA" can only have 3 tasks). This prevents bottlenecks and forces collaboration.
     * **Manage Flow:** The goal is to move tasks from left to right as smoothly and quickly as possible.
+* **Analogy:** A restaurant kitchen. A new order (task) goes on the board, moves through 'Cooking' (In Progress), and then to 'Service' (Done). The goal is a smooth, continuous flow.
 
-### XP (Extreme Programming)
+### XP (Extreme Programming) 💻
 A framework highly focused on technical excellence and code quality.
 
 * **Key Practices:**
@@ -89,14 +91,14 @@ A framework highly focused on technical excellence and code quality.
     * **Pair Programming:** Two developers work at one computer.
     * **Continuous Integration (CI):** Code is integrated and tested automatically many times per day.
 
-### SAFe (Scaled Agile Framework)
+### SAFe (Scaled Agile Framework) 🏢
 A very complex framework for applying Agile and Scrum to **massive, enterprise-level** organizations (hundreds or thousands of developers).
 
 * **Key Concept:** It's an "operating system" for large Agile companies. It adds layers of planning (like the "Agile Release Train" and "PI Planning") to coordinate all the teams.
 
 ---
 
-## At a Glance: Waterfall vs. Agile
+## At a Glance: Waterfall vs. Agile ⚖️
 
 | Feature | Waterfall (Traditional) | Agile (Modern) |
 | :--- | :--- | :--- |
