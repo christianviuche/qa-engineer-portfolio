@@ -1,4 +1,4 @@
-# 07: SDLC Delivery Models 🗺️
+# 07: SDLC Delivery Models
 
 The **Software Development Life Cycle (SDLC)** is a conceptual framework that defines the complete process for creating, deploying, and maintaining software.
 
@@ -11,7 +11,7 @@ The chosen SDLC model is a project's most critical decision, as it defines how t
 These models are linear and rigid. Each phase must be 100% complete before the next one can begin. Change is seen as a problem and is expensive.
 
 ### Waterfall 🌊
-The original, classic model. The project flows in one direction.
+The project flows in one direction.
 
 #### Waterfall Phases:
 1.  **Requirements:** *All* project scope is defined and documented. Once approved, this document is "frozen."
