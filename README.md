@@ -43,3 +43,7 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
 9.  **[09-Manual-Testing-Fundamentals](./09-Manual-Testing-Fundamentals/)**
     * Test Planning, Cases, & Scenarios
     * Verification vs. Validation
+  
+10. **[10-Backend-Automation](./10-Backend-Automation/)**
+    * API & Backend Testing
+    * REST Assured, Postman, Karate
