@@ -1,4 +1,4 @@
-# 07: SDLC Delivery Models
+# 07: SDLC Delivery Models 🗺️
 
 The **Software Development Life Cycle (SDLC)** is a conceptual framework that defines the complete process for creating, deploying, and maintaining software.
 
@@ -11,7 +11,7 @@ The chosen SDLC model is a project's most critical decision, as it defines how t
 These models are linear and rigid. Each phase must be 100% complete before the next one can begin. Change is seen as a problem and is expensive.
 
 ### Waterfall 🌊
-The project flows in one direction.
+The original, classic model. The project flows in one direction.
 
 #### Waterfall Phases:
 1.  **Requirements:** *All* project scope is defined and documented. Once approved, this document is "frozen."
@@ -72,6 +72,10 @@ The most popular Agile framework. Work is divided into fixed-time cycles called 
     * **Daily Scrum:** A 15-min daily meeting (What did I do yesterday? What will I do today? What impediments do I have?).
     * **Sprint Review:** The team *demonstrates* the working software they completed ("Demo").
     * **Sprint Retrospective:** The team reflects on *how* they worked to improve their process.
+* **Key Artifacts:**
+    * **Product Backlog:** The master list of *all* features, requirements, and fixes needed for the entire product, prioritized by the PO.
+    * **Sprint Backlog:** The *subset* of items from the Product Backlog that the team commits to completing in the current Sprint.
+    * **Product Increment:** The *usable, working piece of software* that is delivered at the end of a Sprint (the "Demo").
 * **Analogy:** Like planning a series of short, 2-week *sprints* in a race. The goal is to finish a segment, review, and plan the next one.
 
 ### Kanban 📋
