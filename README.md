@@ -31,3 +31,7 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
 6.  **[06-Testing-Types](./06-Testing-Types/)**
     * Functional vs. Non-Functional
     * Testing Types Catalog
+  
+7.  **[07-SDLC-Models](./07-SDLC-Models/)**
+    * SDLC (Waterfall vs. Agile)
+    * Scrum, Kanban, XP, & SAFe
