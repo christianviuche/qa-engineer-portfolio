@@ -35,3 +35,7 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
 7.  **[07-SDLC-Models](./07-SDLC-Models/)**
     * SDLC (Waterfall vs. Agile)
     * Scrum, Kanban, XP, & SAFe
+  
+8.  **[08-Testing-Methodologies](./08-Testing-Methodologies/)**
+    * TDD, BDD, & ATDD
+    * Root Cause Analysis (RCA)
