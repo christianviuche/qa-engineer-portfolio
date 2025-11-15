@@ -27,3 +27,7 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
 5.  **[05-Test-Case-Management](./05-Test-Case-Management/)**
     * What is a TCM Tool?
     * Zephyr, TestRail, qTest, & TestLink
+
+6.  **[06-Testing-Types](./06-Testing-Types/)**
+    * Functional vs. Non-Functional
+    * Testing Types Catalog
