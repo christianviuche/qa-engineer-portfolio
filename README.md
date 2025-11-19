@@ -72,3 +72,7 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
 16. **[16-Version-Control-Systems](./16-Version-Control-Systems/)**
     * Git Concepts
     * GitHub, GitLab, Bitbucket
+   
+17. **[17-CI-CD-Pipelines](./17-CI-CD-Pipelines/)**
+    * CI/CD Concepts
+    * Jenkins, GitLab CI, Azure DevOps
