@@ -68,3 +68,7 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
 15. **[15-Monitoring-and-Observability](./15-Monitoring-and-Observability/)**
     * APM & Logs
     * New Relic, Datadog, Kibana, Grafana
+
+16. **[16-Version-Control-Systems](./16-Version-Control-Systems/)**
+    * Git Concepts
+    * GitHub, GitLab, Bitbucket
