@@ -60,3 +60,7 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
     * Performance (JMeter, K6)
     * Security (OWASP)
     * Accessibility (WAVE, AXE)
+
+14. **[14-QA-Utilities-and-Reporting](./14-QA-Utilities-and-Reporting/)**
+    * Email Testing & Test Data
+    * Allure Reports & JUnit
