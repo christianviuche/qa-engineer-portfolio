@@ -88,4 +88,4 @@ I performed a full manual testing cycle on the **Swag Labs (SauceDemo)** e-comme
 2.  Designing a **Test Cases Suite**.
 3.  Executing tests and reporting **Bugs** (Jira style).
 
-👉 **[View the Full Manual Testing Project Here](https://github.com/christianviuche/saucedemo-qa-project)**
+👉 **[View the Full Manual Testing Project Here](https://github.com/christianviuche/swaglabs-manual-testing)**
