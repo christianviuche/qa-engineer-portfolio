@@ -76,3 +76,16 @@ These are the primary tools for documenting manual tests.
     * **Operating Systems:** Windows, macOS, Linux, Android, iOS.
     * **Devices:** Mobile phones (e.g., iPhone 15, Samsung Galaxy), tablets, desktops.
     * **Screen Resolutions:** Testing how the app's layout (UI) adapts to different screen sizes.
+
+ ---
+ 
+## 🚀 Applied Practice: Swag Labs Project
+
+Theory is important, but practice is critical. I have applied all these concepts in a real-world simulation project.
+
+I performed a full manual testing cycle on the **Swag Labs (SauceDemo)** e-commerce website, including:
+1.  Creating a **Test Plan**.
+2.  Designing a **Test Cases Suite**.
+3.  Executing tests and reporting **Bugs** (Jira style).
+
+👉 **[View the Full Manual Testing Project Here](https://github.com/christianviuche/saucedemo-qa-project)**
