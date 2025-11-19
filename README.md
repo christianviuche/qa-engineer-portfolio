@@ -64,3 +64,7 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
 14. **[14-QA-Utilities-and-Reporting](./14-QA-Utilities-and-Reporting/)**
     * Email Testing & Test Data
     * Allure Reports & JUnit
+
+15. **[15-Monitoring-and-Observability](./15-Monitoring-and-Observability/)**
+    * APM & Logs
+    * New Relic, Datadog, Kibana, Grafana
