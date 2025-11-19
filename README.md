@@ -55,3 +55,8 @@ This project is inspired by the QA Roadmap and the "Curso Completo de QA Enginee
 12. **[12-Mobile-Automation](./12-Mobile-Automation/)**
     * Mobile Testing Concepts
     * Appium, Espresso, Detox
+
+13. **[13-Specialized-Testing-Tools](./13-Specialized-Testing-Tools/)**
+    * Performance (JMeter, K6)
+    * Security (OWASP)
+    * Accessibility (WAVE, AXE)
